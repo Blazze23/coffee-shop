@@ -1,4 +1,4 @@
-# 2GO Coffe Shop React Redux App
+# 2GO Coffee Shop React Redux App
 
 This react app is using redux toolkit for state management and firebase as a backend server. It has a basic shopping cart functionality of adding products to the cart and removing them from it, and also displaying and hiding cart when cart button is triggered.
 Live preview of the app is available at: [https://2go-coffee.netlify.app/](https://2go-coffee.netlify.app/).
