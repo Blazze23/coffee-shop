@@ -1,0 +1,16 @@
+.button span {
+  margin: 0 0.5rem;
+}
+
+.badge {
+  background-color: #fe8f50;
+  border-radius: 30px;
+  padding: 0.15rem 1.25rem;
+  color: #111111;
+}
+
+.button:hover .badge,
+.button:active .badge {
+  background-color: #111111;
+  color: #fe8f50;
+}

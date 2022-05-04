@@ -1,0 +1,51 @@
+.item {
+  margin: 1rem 0;
+  background-color: #fefefe;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+.item h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.75rem;
+}
+
+.item header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quantity span {
+  font-size: 1.5rem;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.itemprice {
+  font-size: 1rem;
+  font-weight: normal;
+  font-style: italic;
+  margin-left: 0.5rem;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.5rem 0;
+}
+
+.actions button {
+  color: #111111;
+  margin-left: 0.5rem;
+  padding: 0.15rem 1rem;
+}
